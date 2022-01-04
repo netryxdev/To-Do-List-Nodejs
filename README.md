@@ -12,4 +12,9 @@
 * "nodemon": "^2.0.15",
 * "sequelize": "^6.12.0"
 
-I also advise you to install the workbench on your machine to make it easier to deal with the database
+* I also advise you to install the workbench on your machine to make it easier to deal with the database
+
+To run this application you will need to install all node modules, a MySQL server configured in your machine(recommend you to use MySQL server(A GUI MySQL program)), and choose a port to use.
+
+In the future i will deploy this application on heroku.
+
