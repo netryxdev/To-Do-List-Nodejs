@@ -1,6 +1,6 @@
 # To-Do-List-Nodejs
 
-![alt text](https://prnt.sc/25wptz2)
+![alt text](https://prnt.sc/25wptz2.png)
 
 ## This is a To-Do list web app made with nodejs, express, sequelize,MySQL and handlebars
 
